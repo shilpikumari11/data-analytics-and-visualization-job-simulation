@@ -1,0 +1,1 @@
+Completed Accenture NA's Data Analytics & Visualization on Forage, gaining insights into intern tasks: advising social media clients, analyzing 7 datasets for content trends, preparing presentations for stakeholders. Now sharing work on GitHub.
