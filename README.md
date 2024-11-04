@@ -6,6 +6,35 @@ I'm thrilled to showcase my work on the Data Analytics & Visualization project c
 
 Throughout the Program, I delved into advising social media clients, where I leveraged data analytics techniques to provide informed recommendations.
 
+**Task 1: Requirements Gathering**
+- **Objective**: Understand the client’s (Social Buzz) needs to identify key content trends.
+- **Focus**: Identify main data sources, define important metrics (e.g., engagement, reaction types).
+- **Outcome**: Established data collection and analysis goals focused on popular content categories and audience engagement patterns.
+
+**Task 2: Data Cleaning**
+- **Objective**: Prepare clean, reliable data for analysis.
+- **Steps**:
+  - Removed duplicates and irrelevant data.
+  - Standardized reaction categories and content type names.
+  - Handled missing values to maintain data integrity.
+- **Outcome**: A clean, consistent dataset ready for effective modeling and analysis.
+
+**Task 3: Data Modeling and Analysis**
+- **Objective**: Organize and analyze data to identify trends.
+- **Steps**:
+  - Combined multiple datasets using SQL joins.
+  - Applied aggregation techniques to calculate engagement metrics by category and month.
+  - Analyzed monthly trends and overall engagement by content type.
+- **Outcome**: Insightful metrics on popular categories (e.g., “Animal” and “Healthy eating”) and monthly engagement trends.
+
+**Task 4: Visualization and Presentation**
+- **Objective**: Communicate insights clearly to stakeholders.
+- **Tools Used**: Excel for data manipulation; PowerPoint and visualizations for presentation.
+- **Visualizations Created**:
+  - Bar charts for reaction counts across categories.
+  - Pie and donut charts for proportion of engagement by content type.
+- **Outcome**: Provided a comprehensive report showcasing content popularity, engagement insights, and actionable recommendations for content strategy.
+
 **Data Analysis:**
 
 One of the highlights of this project was the analysis of seven distinct datasets aimed at uncovering content trends. Through rigorous analysis, I was able to extract valuable insights that informed strategic decisions.
